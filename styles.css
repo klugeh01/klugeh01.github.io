@@ -1,5 +1,5 @@
 body {
-  background-image: "circles.jpg";
+  background-image: url("Circles.jpg");
 }
 li#red {
   color: red;
