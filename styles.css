@@ -9,11 +9,8 @@ li#yellow {
 }
 li#green {
   color: green;
-  list-style-type: none;
+  list-style-type: url("http://upload.wikimedia.org/wikipedia/commons/9/90/Check_mark_23x20_02.svg");
   padding: 0px;
   margin: 0px;
-  background-image: url("http://upload.wikimedia.org/wikipedia/commons/9/90/Check_mark_23x20_02.svg");
-  background-repeat: no-repeat;
-  background-position: -14px 5px; 
-  padding-left: 14px;
+
 }
