@@ -1,3 +1,13 @@
 body {
-  background-image: url("https://raw.githubusercontent.com/klugeh01/klugeh01.github.io/master/Circles.jpg");
+  background-image: url("http://wallpaper-download.net/wallpapers/random-wallpapers-blue-pattern-background-wallpaper-32590.jpg");
+}
+li#red {
+  color: red;
+}
+li#yellow {
+  color: orange;
+}
+li#green {
+  color: green;
+  list-style-image: url("http://upload.wikimedia.org/wikipedia/commons/9/90/Check_mark_23x20_02.svg");
 }
