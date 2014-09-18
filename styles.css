@@ -9,8 +9,6 @@ li#yellow {
 }
 li#green {
   color: green;
-  list-style-type: url("http://upload.wikimedia.org/wikipedia/commons/9/90/Check_mark_23x20_02.svg");
-  padding: 0px;
-  margin: 0px;
+  list-style-type: none;
 
 }
