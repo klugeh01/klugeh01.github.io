@@ -15,6 +15,7 @@ nav li {
    display: inline;
 }
 section {
+    padding: 20px;
     position: absolute;
     left: 25%;
     width: 50%;
