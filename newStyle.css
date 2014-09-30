@@ -1,70 +1,44 @@
-<html>
-     <head>
-         <title>Home</title>
-         <style>
-         header {
-             position: fixed;
-             background-color: #bbbbbb;
-             top: 0px;
-             left: 0px;
-             width: 100%;
-             height: 20px;
-         }
-         nav {
-             margin-top: 20px;
-             margin-bottom: -16px;
-             background-color: green;
-         }
-         nav li {
-            display: inline;
-         }
-         section {
-             float: center;
-             width: 80%;
-             height: 500px;
-             background-color: blue;
-             color: white;
-         }
-         section aside {
-             float: right;
-             width: 20%;
-             height: 500px;
-             background-color: lightblue;
-             color: white;
-         }
-         aside {
-             float: left;
-             width: 20%;
-             height: 500px;
-             background-color: red;
-         }
-         footer {
-             clear: both;
-             background-color: yellow;
-         }
-         body {
-             background-color: white;
-             margin: 0px;
-         }
-         </style>
-
-     </head>
-     <body>
-         <header>
-             A header that stays stuck to the top.
-         </header>
-         <nav>
-             <ul>
-             <li>About</li>
-             <li>Papers</li>
-             <li>Donate</li>
-             </ul>
-         </nav>
-         <section>
-             main body of page
-         </section>
-         <aside>
-             table of contents over here
-         </aside>
-     </body>
- </html>
+header {
+    position: fixed;
+    background-color: #bbbbbb;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 20px;
+}
+nav {
+    margin-top: 20px;
+    margin-bottom: -16px;
+    background-color: green;
+}
+nav li {
+   display: inline;
+}
+section {
+    float: center;
+    width: 500px;
+    height: 750px;
+    background-color: blue;
+    color: white;
+}
+section aside {
+    float: right;
+    width: 20%;
+    height: 500px;
+    background-color: lightblue;
+    color: white;
+}
+aside {
+    float: left;
+    width: 20%;
+    height: 500px;
+    background-color: red;
+}
+footer {
+    clear: both;
+    background-color: yellow;
+}
+body {
+    background-image: url("blue.jpg");
+    margin: 0px;
+}
