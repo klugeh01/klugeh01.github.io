@@ -25,9 +25,9 @@ section {
     color: white;
 }
 section aside {
-    float: right;
+    position: absolute;
     width: 20%;
-    height: 500px;
+    height: 100%;
     background-color: yellow;
     color: white;
 }
