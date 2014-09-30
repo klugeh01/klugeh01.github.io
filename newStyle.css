@@ -15,8 +15,9 @@ nav li {
    display: inline;
 }
 section {
-    float: center;
-    width: 500px;
+    margin-left: 25%;
+    margin-left: 25%;
+    width: 75%;
     height: 750px;
     background-color: blue;
     color: white;
