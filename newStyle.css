@@ -16,8 +16,9 @@ nav li {
 }
 section {
     position: absolute;
-    left: 50%;
-    width: 500px;
+    left: 30%;
+    width: 40%;
+    height: 500px;
     background-color: green;
     color: white;
 }
